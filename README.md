@@ -1,4 +1,4 @@
-# GIS Points App 
+# GIS Points Project
 
 This is a full-stack web application that allows users to add and visualize geographic points on a map centered around Dubai. It uses ArcGIS Maps SDK for JavaScript (Frontend) and ASP.NET Core Web API (Backend).
 
