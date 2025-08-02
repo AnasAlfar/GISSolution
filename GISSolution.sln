@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GISAPI", "GISAPI\GISAPI.csproj", "{0C487D30-0BDB-48AF-939F-11556B108DE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GISWeb", "GISWeb\GISWeb.csproj", "{B0028FBC-FF61-4970-B7FF-DCD834C0315C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C487D30-0BDB-48AF-939F-11556B108DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C487D30-0BDB-48AF-939F-11556B108DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C487D30-0BDB-48AF-939F-11556B108DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C487D30-0BDB-48AF-939F-11556B108DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0028FBC-FF61-4970-B7FF-DCD834C0315C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0028FBC-FF61-4970-B7FF-DCD834C0315C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0028FBC-FF61-4970-B7FF-DCD834C0315C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0028FBC-FF61-4970-B7FF-DCD834C0315C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1925A50C-1B4A-4214-9B67-9A5368E8AF0F}
+	EndGlobalSection
+EndGlobal
